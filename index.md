@@ -1,6 +1,6 @@
-# Welcome @ Patrick's ML projects
+## Welcome @ Patrick's ML projects
 
-## Motivation
+### Motivation
 
 Hi guys, this is Patrick. 
 
