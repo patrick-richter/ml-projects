@@ -1,8 +1,8 @@
-## Welcome @ Patrick's ML projects
+## Welcome @ Patrick's ML Projects
 
 ### Motivation
 
-Hi guys, this is Patrick. 
+Hi guys, this is Patrick, a Data Science Master's student at the [University of Bath](www.bath.ac.uk). 
 
 - Bulleted
 - List
