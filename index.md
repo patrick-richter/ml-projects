@@ -2,7 +2,7 @@
 
 ### Motivation
 
-Hi guys, this is Patrick, a Data Science Master's student at the [University of Bath](www.bath.ac.uk). 
+Hi guys, this is Patrick, a Data Science Master's student at the [University of Bath](https://www.bath.ac.uk). 
 
 - Bulleted
 - List
