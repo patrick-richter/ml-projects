@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/patrick-richter/ml-project
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[a relative link](index.md)
+[a relative link](another-project.md)
 
 ### Markdown
 
