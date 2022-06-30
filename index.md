@@ -1,8 +1,8 @@
 # Welcome @ Patrick's ML projects
 
-### Background
+## Motivation
 
-
+Hi guys, this is Patrick. 
 
 [a relative link](another-project.md)
 
