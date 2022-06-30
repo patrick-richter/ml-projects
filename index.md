@@ -9,6 +9,19 @@ Hi guys, this is Patrick, a Data Science Master's student at the [University of 
 
 [a relative link](another-project.md)
 
+### Projects
+
+#### Classic Machine Learning
+
+ss
+xxx
+
+#### Deep Learning
+
+
+#### Reinforcement Learning
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
