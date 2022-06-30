@@ -4,6 +4,9 @@
 
 Hi guys, this is Patrick. 
 
+- Bulleted
+- List
+
 [a relative link](another-project.md)
 
 ### Markdown
