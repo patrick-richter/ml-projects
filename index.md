@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/67504471/176693169-6613a4c7-c7e6-497a-b0a6-fc64b0e50584.png" width=50%>
 
-
+<!--- and --->
 
 ### Motivation
 
